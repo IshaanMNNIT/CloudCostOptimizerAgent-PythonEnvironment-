@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>cloud.rl</groupId>
+    <artifactId>cloudsim-validation</artifactId>
+    <version>1.0</version>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.cloudsimplus</groupId>
+            <artifactId>cloudsim-plus</artifactId>
+            <version>8.0.0</version>
+        </dependency>
+    </dependencies>
+</project>

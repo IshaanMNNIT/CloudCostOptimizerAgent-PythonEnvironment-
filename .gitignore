@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Model files
+models/*.zip
+models/*.pth
+models/*.pt
+
+# Logs / outputs
+*.log
+*.png
+*.jpg
+*.jpeg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java / Maven
+cloudsim_validation/target/
+*.class
+*.jar
+
+# Environment / secrets
+.env
+.env.*
+
+# Temporary
+tmp/
+temp/
+
+artifacts/
