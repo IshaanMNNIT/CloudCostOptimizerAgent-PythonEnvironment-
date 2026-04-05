@@ -13,7 +13,7 @@ models/*.pt
 
 # Logs / outputs
 *.log
-*.png
+
 *.jpg
 *.jpeg
 
